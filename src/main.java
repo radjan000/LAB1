@@ -3,5 +3,7 @@ public class main {
         // ptaki lataja kluczem
         // jdk 1.8.0.1
         // inteliJ
-            }
+
+
+    // NAZWA PROJEKTU 1}
 }
