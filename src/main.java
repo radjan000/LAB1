@@ -5,5 +5,6 @@ public class main {
         // inteliJ
 
 
-    // NAZWA PROJEKTU 1}
+        // NAZWA PROJEKTU 1
+    }
 }
